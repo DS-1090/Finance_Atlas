@@ -1,0 +1,73 @@
+ 
+body {
+    background-color:rgb(236, 249, 250);  
+    font-family:'Times New Roman', Times, serif;
+    color: #333; 
+    margin: 0;  
+    padding: 0;  
+}
+
+ h1 {
+    font-size: 27px;  
+    font-weight:550;  
+    
+    font-family:'Times New Roman', Times, serif;
+    color:rgb(1, 124, 124);  
+    text-align: center;  
+    margin: 20px 0;  
+}
+
+ .Form {
+    background-color:rgb(236, 249, 250); 
+    border: 1px solid #ccc;  
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;  
+    max-width: 400px;  
+    text-align: center; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.195);
+
+
+ }
+
+  
+
+ 
+ input[type="submit"] {
+    background-color:darkcyan;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.229);
+
+ }
+ .selection{
+   padding: 10px;
+   border: 1px solid #f5feff;
+   border-radius: 5px;
+   text-align:center;
+   font-size: 16px;
+   box-shadow: 0 0 10px rgba(222, 251, 253, 0.182);
+
+   margin-bottom: 20px;
+}
+  .output {
+    background-color:rgb(236, 249, 250);  
+     border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;  
+    max-width: 400px;  
+   opacity:80%;
+   text-align: center;
+   font-size: 18px;
+   color:darkcyan;
+   font-weight: bold; 
+   box-shadow: 0 0 10px rgba(234, 231, 231, 0.205);
+
+
+ }
+
+  
+ 
