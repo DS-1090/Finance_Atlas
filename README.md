@@ -1,6 +1,6 @@
 # Finance_Atlas
 Finance_Atlas: A simple web platform that displays economic indicators of 5 countries. 
-Used IMF(International Monetary Fund) API to retrive the data. 
+Used IMF(International Monetary Fund) API to retrieve the data. 
 
 ![Screenshot 2024-08-18 180315](https://github.com/user-attachments/assets/41546111-670d-4ced-a101-4894c688080f)
 
